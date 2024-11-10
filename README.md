@@ -1,2 +1,3 @@
 # Project-Management-Analysis
-Guided Project Using Power BI
+Semi - Guided Project Using Power BI
+Created Dashboard Using Dataset and problem statement provided
